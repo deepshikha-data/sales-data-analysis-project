@@ -17,8 +17,16 @@ This project analyzes sales data to find useful business insights using Python.
 - Data Visualization
 - Finding Business Insights
 
- Key Insights
-(Add your findings here after analysis)
+Project File
+- Sales_Data_Analysis.ipynb - Complete analysis notebook
+
+Insights
+- Analyzed customer billing patterns
+- Studied relationship between total bill and tip
+- Compared sales across different days
+
+Skills Used
+Python | Pandas | Data Analysis | Data Visualization
 
  Author
  Deepshikha 
